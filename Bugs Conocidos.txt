@@ -1,0 +1,18 @@
+Editor--
+-No se puede quitar puntos ya puesto.
+
+-El boton de reiniciar reinicia todo
+en lugar de solo quitar los puntos.
+
+Preview--
+-Cuando se dibuja, la forma con color no
+tiene la misma forma que los bordes.
+
+
+General--
+-Si reescribes el mismo archivo ini varias
+veces la figura puede deformarse.
+-Algunas veces las secciones y las variables
+del ini no se ordenan correctamente.
+-Algunas veces las lineas terminan en puntos
+donde no deben.

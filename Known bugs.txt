@@ -1,0 +1,18 @@
+Editor--
+-You can not remove points already placed.
+
+-The reset button resets everything
+instead of just removing the points.
+
+Preview--
+-When drawn, the shape with color does not
+it has the same shape as the edges.
+
+
+General--
+-If you rewrite the same ini file several times
+Sometimes the figure can be deformed.
+-Sometimes sections and variables
+ini files are not sorted correctly.
+-Sometimes lines end in dots
+where they shouldn't
